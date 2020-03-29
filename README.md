@@ -18,6 +18,7 @@
   - [SQL索引+SQL调优](https://github.com/946470326/MakerStack/blob/master/docx/mysql/MySQL索引.md)
   - [MySQL安装](https://github.com/946470326/MakerStack/blob/master/docx/mysql/mysql安装.md)
   - [从MySQL架构看SQL执行流程](https://github.com/946470326/MakerStack/blob/master/docx/mysql/mysql高级.md)
+  - [MySQL之视图 ,函数,存储过程](https://github.com/946470326/MakerStack/blob/master/docx/mysql/MySQL之视图 ,函数,存储过程.md)
 - [NoSql](https://github.com/946470326/MakerStack/blob/master/docx/nosql)
   - [数据库演变](https://github.com/946470326/MakerStack/blob/master/docx/nosql/noSql.md)
 - [redis](https://github.com/946470326/MakerStack/tree/master/docx/redis)
@@ -34,6 +35,9 @@
 - [面试](https://github.com/946470326/MakerStack/tree/master/docx/面试)
   - [Java基础系列一](https://github.com/946470326/MakerStack/blob/master/docx/面试/Java基础01.md)
   - [Java基础系列二](https://github.com/946470326/MakerStack/blob/master/docx/面试/Java基础02.md)
+  - [MySQL面试题](https://github.com/946470326/MakerStack/blob/master/docx/面试/MySQL面试题.md)
 
 ### 若有技术交流可以关注笔者微信公众号(MakerStack)
+
+![](https://gitee.com/onlyzl/image/raw/master/img/wx.png)
 
