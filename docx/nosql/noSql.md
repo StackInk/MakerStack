@@ -4,23 +4,23 @@
 
 - 一台`MYSQL`撑起整个时代
 
-![](image/mysql01.png)
+![](https://gitee.com/onlyzl/image/raw/master/img/mysql1.png)
 
 - `Memcached`缓存+`MYSQL`集群
 
-![](image/memcached.png)
+![](https://gitee.com/onlyzl/image/raw/master/img/memcached.png)
 
 - `Mysql`主从复制，读写分离
 
 数据库写入压力增加，读写放于一个库中，数据库压力太大。所以采用主从复制。读写分离的思路，减轻服务器负担
 
-![](image/masterslave.png)
+![](![](https://gitee.com/onlyzl/image/raw/master/img/masterslave.png)
 
 - 分库分表+水平拆分+`mysql`集群
 
 数据量递增的情况下，由于`MYISAM`使用表锁，在高并发的情况下会出现严重的锁问题，所以使用`INNODB`代替`MYISAM`，同时采用了分库分表的技术，搭建`MYSQL`集群
 
-![](image/masterslaves.png)
+![](https://gitee.com/onlyzl/image/raw/master/img//masterslaves.png)
 
 - `MYSQL`扩展瓶颈。
 
