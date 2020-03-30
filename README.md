@@ -39,5 +39,5 @@
 
 ### 若有技术交流可以关注笔者微信公众号(MakerStack)
 
-![](https://gitee.com/onlyzl/image/raw/master/img/wx.png)
+![](https://gitee.com/onlyzl/image/raw/master/img/wxhead.png)
 
