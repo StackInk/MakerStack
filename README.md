@@ -19,7 +19,7 @@
   - [SQL索引+SQL调优](https://github.com/946470326/MakerStack/blob/master/docx/mysql/MySQL索引.md)
   - [MySQL安装](https://github.com/946470326/MakerStack/blob/master/docx/mysql/mysql安装.md)
   - [从MySQL架构看SQL执行流程](https://github.com/946470326/MakerStack/blob/master/docx/mysql/mysql高级.md)
-  - [MySQL之存储过程，用户管理，触发器，函数](https://github.com/946470326/MakerStack/blob/master/docx/mysql/MySQL之视图 %2C函数%2C存储过程.md)
+  - [MySQL之存储过程，用户管理，触发器，函数](https://github.com/946470326/MakerStack/blob/master/docx/mysql/MySQL%E4%B9%8B%E8%A7%86%E5%9B%BE%20%2C%E5%87%BD%E6%95%B0%2C%E5%AD%98%E5%82%A8%E8%BF%87%E7%A8%8B.md)
   - [MySQL锁](https://github.com/946470326/MakerStack/blob/master/docx/mysql/MySQL锁.md)
 - [NoSql](https://github.com/946470326/MakerStack/blob/master/docx/nosql)
   - [数据库演变](https://github.com/946470326/MakerStack/blob/master/docx/nosql/noSql.md)
