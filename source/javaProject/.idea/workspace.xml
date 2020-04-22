@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0bcb476d-d2a6-4244-9c23-e1821200a862" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1abgTFs7pXcgZ1GNvMMnaMnqqf1" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="DataProgramClientDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bywlstudio.nio.DataProgramClientDemo" />
+      <module name="javaProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bywlstudio.nio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataProgramServerDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bywlstudio.nio.DataProgramServerDemo" />
+      <module name="javaProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bywlstudio.nio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NoBlockClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bywlstudio.nio.NoBlockClient" />
+      <module name="javaProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bywlstudio.nio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PipeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bywlstudio.nio.PipeDemo" />
+      <module name="javaProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bywlstudio.nio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bywlstudio.Test" />
+      <module name="javaProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bywlstudio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.NoBlockClient" />
+      <item itemvalue="Application.DataProgramServerDemo" />
+      <item itemvalue="Application.DataProgramClientDemo" />
+      <item itemvalue="Application.PipeDemo" />
+      <item itemvalue="Application.Test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.PipeDemo" />
+        <item itemvalue="Application.DataProgramClientDemo" />
+        <item itemvalue="Application.DataProgramServerDemo" />
+        <item itemvalue="Application.NoBlockClient" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0bcb476d-d2a6-4244-9c23-e1821200a862" name="Default Changelist" comment="" />
+      <created>1587009712178</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587009712178</updated>
+      <workItem from="1587009718116" duration="317000" />
+      <workItem from="1587010126039" duration="18697000" />
+      <workItem from="1587092872223" duration="25131000" />
+      <workItem from="1587132950954" duration="1282000" />
+      <workItem from="1587183634912" duration="16340000" />
+      <workItem from="1587272231049" duration="13729000" />
+      <workItem from="1587353280872" duration="9806000" />
+      <workItem from="1587442074675" duration="14776000" />
+      <workItem from="1587527576711" duration="9239000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="872" y="361" key="#Auto_Import" timestamp="1587529849910">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="872" y="361" key="#Auto_Import/0.0.2560.1400@0.0.2560.1400" timestamp="1587529849910" />
+    <state x="679" y="632" width="1092" height="685" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587298876582">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="679" y="632" width="1092" height="685" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1587298876582" />
+    <state x="1535" y="415" width="608" height="584" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1587013888764">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1535" y="415" width="608" height="584" key="#com.intellij.ide.macro.MacrosDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1587013888764" />
+    <state x="1085" y="393" key="#com.intellij.ide.util.MemberChooser" timestamp="1587543506917">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1085" y="393" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1587543506917" />
+    <state x="1517" y="552" key="#com.intellij.tools.ToolEditorDialog" timestamp="1587013892165">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1517" y="552" key="#com.intellij.tools.ToolEditorDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1587013892165" />
+    <state x="1537" y="464" key="FileChooserDialogImpl" timestamp="1587133843534">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1537" y="464" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1587133843534" />
+    <state width="2517" height="349" key="GridCell.Tab.0.bottom" timestamp="1587546739525">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="349" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1587546739525" />
+    <state width="2517" height="349" key="GridCell.Tab.0.center" timestamp="1587546739524">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="349" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1587546739524" />
+    <state width="2517" height="349" key="GridCell.Tab.0.left" timestamp="1587546739524">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="349" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1587546739524" />
+    <state width="2517" height="349" key="GridCell.Tab.0.right" timestamp="1587546739524">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="349" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1587546739524" />
+    <state width="2517" height="481" key="GridCell.Tab.1.bottom" timestamp="1587478383865">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="481" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1587478383865" />
+    <state width="2517" height="481" key="GridCell.Tab.1.center" timestamp="1587478383865">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="481" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1587478383865" />
+    <state width="2517" height="481" key="GridCell.Tab.1.left" timestamp="1587478383865">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="481" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1587478383865" />
+    <state width="2517" height="481" key="GridCell.Tab.1.right" timestamp="1587478383865">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="481" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1587478383865" />
+    <state x="313" y="315" key="SettingsEditor" timestamp="1587528732874">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="313" y="315" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1587528732874" />
+    <state x="1010" y="456" key="extract.method.dialog" timestamp="1587473001208">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1010" y="456" key="extract.method.dialog/0.0.2560.1400@0.0.2560.1400" timestamp="1587473001208" />
+    <state x="654" y="298" key="new project wizard" timestamp="1587476335263">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="654" y="298" key="new project wizard/0.0.2560.1400@0.0.2560.1400" timestamp="1587476335263" />
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1587541340037">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1587541340037" />
+  </component>
+</project>
