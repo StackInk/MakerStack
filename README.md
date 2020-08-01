@@ -27,6 +27,8 @@
   - [五大IO模型](https://mp.weixin.qq.com/s?__biz=MzU5NzMxNDE5NA==&mid=2247484536&idx=1&sn=8f6270bba67646fe466c86520816cda9&chksm=fe541b85c9239293662b5673d2cc0c18f784521687db580f13cbbee4e64e99270c83039b4dc3&token=2083893512&lang=zh_CN#rd)
   - [NIO模型](https://mp.weixin.qq.com/s?__biz=MzU5NzMxNDE5NA==&mid=2247484536&idx=2&sn=37c38414b2d13756b140a82bfef987c7&chksm=fe541b85c92392938169623772254570e9d3851736811dfcabce5c1c395594fd454c1e8f822c&token=2083893512&lang=zh_CN#rd)
   - [你还在用SimpleDateFormat格式化时间嘛？](https://mp.weixin.qq.com/s?__biz=MzU5NzMxNDE5NA==&mid=2247484735&idx=1&sn=7b4afd2fbeb53a2a2acd96f4bb0de71b&chksm=fe541ac2c92393d4d5fdfa77f7a32fd017349159b709b52ea692e2c4ff80138cf2d44397bac4&token=1963104603&lang=zh_CN#rd)
+  - [小伙子，来给我讲讲ThreadLocal设计原理](https://mp.weixin.qq.com/s?__biz=MzU5NzMxNDE5NA==&mid=2247484744&idx=1&sn=641c5b2c2261fe7a82bd314f724deada&chksm=fe541ab5c92393a377edbb4be3b80d028f1228589af584892d9bbb850f381e74ddcbdb9a704b&token=247281229&lang=zh_CN#rd)
+  - [Synchronized聊一聊](https://mp.weixin.qq.com/s?__biz=MzU5NzMxNDE5NA==&mid=2247484769&idx=1&sn=2cbd67ee377d28fa4959315e1cba6509&chksm=fe541a9cc923938ae3fd66abbf22d25660a16f7bb4c78fab169a8beb3736b368af35f64a9f4c&token=247281229&lang=zh_CN#rd)
 - [Linux](https://github.com/946470326/MakerStack/tree/master/docx/linux)
   - [Linux总结](https://github.com/946470326/MakerStack/blob/master/docx/linux/Linux.md)
 - [Mysql](https://github.com/946470326/MakerStack/tree/master/docx/mysql)
