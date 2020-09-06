@@ -9,6 +9,11 @@
 
 ### 目录
 
+- 设计模式
+  - [工厂设计模式](https://mp.weixin.qq.com/s?__biz=MzU5NzMxNDE5NA==&mid=2247484784&idx=1&sn=a09d90eccec478770caccf6dbdaaef7b&chksm=fe541a8dc923939ba14be759fba09c6e607e85b3e777e0968233a5c1b9cb4b0b7099652527dd&token=1389389804&lang=zh_CN#rd)
+  - [观察者设计模式](https://mp.weixin.qq.com/s?__biz=MzU5NzMxNDE5NA==&mid=2247484797&idx=1&sn=86e700edab3abab9e121edaa3dccde51&chksm=fe541a80c9239396c8f4755ebe23556bf06bf02ca304063fce9f566fcb08492638dab5e48a0b&token=1389389804&lang=zh_CN#rd)
+  - [代理设计模式](https://mp.weixin.qq.com/s?__biz=MzU5NzMxNDE5NA==&mid=2247484816&idx=1&sn=1f8558ccf94605b405cb2ac0b5071642&chksm=fe541a6dc923937bde2c9832fd030d56e38f4802696820915c1fe8b3d82352be759dcb96deee&token=1389389804&lang=zh_CN#rd)
+
 - [RestFul](https://github.com/946470326/MakerStack/blob/master/docx/RESTful)
   - [基于MVC的RESTful风格的实现](https://github.com/946470326/MakerStack/blob/master/docx/RESTful/基于MVC的RESTful风格的实现.md)
 - [Git](https://github.com/946470326/MakerStack/tree/master/docx/git)
