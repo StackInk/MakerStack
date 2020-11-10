@@ -1,6 +1,6 @@
 ## JVM介绍
 
-### 1. JVM的体系架构（内存模型）
+### 1. JVM的体系架构（内存结构）
 
 ![](https://gitee.com/onlyzl/blogImage/raw/master/img/20200413210115.png)
 
